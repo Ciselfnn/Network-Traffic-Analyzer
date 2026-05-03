@@ -15,7 +15,7 @@ A command-line based Network Traffic Analyzer and rudimentary Intrusion Detectio
 
 ## 📸 Screenshot
 
-*(Catatan untuk Anda: Anda bisa mengunggah file `capture.png` Anda ke GitHub, lalu ganti teks ini dengan sintaks gambar Markdown, contoh: `![CLI Dashboard](capture.png)`)*
+`![CLI Dashboard](capture.png)`
 
 ## 🛠️ Prerequisites
 
