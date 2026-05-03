@@ -15,7 +15,7 @@ A command-line based Network Traffic Analyzer and rudimentary Intrusion Detectio
 
 ## 📸 Screenshot
 
-`![CLI Dashboard](capture.png)`
+![CLI Dashboard](capture.png)
 
 ## 🛠️ Prerequisites
 
